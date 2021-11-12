@@ -1,0 +1,10 @@
+D:\Навчання\ООП\візуал\oop-lab5\oop-lab5\GraphicPlotter\bin\Debug\GraphicPlotter.exe.config
+D:\Навчання\ООП\візуал\oop-lab5\oop-lab5\GraphicPlotter\bin\Debug\GraphicPlotter.exe
+D:\Навчання\ООП\візуал\oop-lab5\oop-lab5\GraphicPlotter\bin\Debug\GraphicPlotter.pdb
+D:\Навчання\ООП\візуал\oop-lab5\oop-lab5\GraphicPlotter\obj\Debug\GraphicPlotter.csproj.AssemblyReference.cache
+D:\Навчання\ООП\візуал\oop-lab5\oop-lab5\GraphicPlotter\obj\Debug\GraphicPlotter.Form1.resources
+D:\Навчання\ООП\візуал\oop-lab5\oop-lab5\GraphicPlotter\obj\Debug\GraphicPlotter.Properties.Resources.resources
+D:\Навчання\ООП\візуал\oop-lab5\oop-lab5\GraphicPlotter\obj\Debug\GraphicPlotter.csproj.GenerateResource.cache
+D:\Навчання\ООП\візуал\oop-lab5\oop-lab5\GraphicPlotter\obj\Debug\GraphicPlotter.csproj.CoreCompileInputs.cache
+D:\Навчання\ООП\візуал\oop-lab5\oop-lab5\GraphicPlotter\obj\Debug\GraphicPlotter.exe
+D:\Навчання\ООП\візуал\oop-lab5\oop-lab5\GraphicPlotter\obj\Debug\GraphicPlotter.pdb
